@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent.Chat.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48401889-29CB-4637-A0CC-ECEBFFFABDB6}|Torrent.Chat.Api.Api\\Torrent.Chat.Api.Api.csproj|c:\\users\\handy bandy\\desktop\\torrent services\\torrent.chat.api\\torrent.chat.api.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48401889-29CB-4637-A0CC-ECEBFFFABDB6}|Torrent.Chat.Api.Api\\Torrent.Chat.Api.Api.csproj|solutionrelative:torrent.chat.api.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15502E2-6651-42AC-A4B1-041D3E341B4E}|Torrent.Chat.Api.Storage\\Torrent.Chat.Api.Storage.csproj|c:\\users\\handy bandy\\desktop\\torrent services\\torrent.chat.api\\torrent.chat.api.storage\\dbrepository\\msgrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A15502E2-6651-42AC-A4B1-041D3E341B4E}|Torrent.Chat.Api.Storage\\Torrent.Chat.Api.Storage.csproj|solutionrelative:torrent.chat.api.storage\\dbrepository\\msgrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15502E2-6651-42AC-A4B1-041D3E341B4E}|Torrent.Chat.Api.Storage\\Torrent.Chat.Api.Storage.csproj|c:\\users\\handy bandy\\desktop\\torrent services\\torrent.chat.api\\torrent.chat.api.storage\\dbaccess\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A15502E2-6651-42AC-A4B1-041D3E341B4E}|Torrent.Chat.Api.Storage\\Torrent.Chat.Api.Storage.csproj|solutionrelative:torrent.chat.api.storage\\dbaccess\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15502E2-6651-42AC-A4B1-041D3E341B4E}|Torrent.Chat.Api.Storage\\Torrent.Chat.Api.Storage.csproj|c:\\users\\handy bandy\\desktop\\torrent services\\torrent.chat.api\\torrent.chat.api.storage\\torrent.chat.api.storage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A15502E2-6651-42AC-A4B1-041D3E341B4E}|Torrent.Chat.Api.Storage\\Torrent.Chat.Api.Storage.csproj|solutionrelative:torrent.chat.api.storage\\torrent.chat.api.storage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48401889-29CB-4637-A0CC-ECEBFFFABDB6}|Torrent.Chat.Api.Api\\Torrent.Chat.Api.Api.csproj|c:\\users\\handy bandy\\desktop\\torrent services\\torrent.chat.api\\torrent.chat.api.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{48401889-29CB-4637-A0CC-ECEBFFFABDB6}|Torrent.Chat.Api.Api\\Torrent.Chat.Api.Api.csproj|solutionrelative:torrent.chat.api.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48401889-29CB-4637-A0CC-ECEBFFFABDB6}|Torrent.Chat.Api.Api\\Torrent.Chat.Api.Api.csproj|c:\\users\\handy bandy\\desktop\\torrent services\\torrent.chat.api\\torrent.chat.api.api\\torrent.chat.api.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{48401889-29CB-4637-A0CC-ECEBFFFABDB6}|Torrent.Chat.Api.Api\\Torrent.Chat.Api.Api.csproj|solutionrelative:torrent.chat.api.api\\torrent.chat.api.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15502E2-6651-42AC-A4B1-041D3E341B4E}|Torrent.Chat.Api.Storage\\Torrent.Chat.Api.Storage.csproj|c:\\users\\handy bandy\\desktop\\torrent services\\torrent.chat.api\\torrent.chat.api.storage\\entitymodels\\entitychat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A15502E2-6651-42AC-A4B1-041D3E341B4E}|Torrent.Chat.Api.Storage\\Torrent.Chat.Api.Storage.csproj|solutionrelative:torrent.chat.api.storage\\entitymodels\\entitychat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48401889-29CB-4637-A0CC-ECEBFFFABDB6}|Torrent.Chat.Api.Api\\Torrent.Chat.Api.Api.csproj|c:\\users\\handy bandy\\desktop\\torrent services\\torrent.chat.api\\torrent.chat.api.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{48401889-29CB-4637-A0CC-ECEBFFFABDB6}|Torrent.Chat.Api.Api\\Torrent.Chat.Api.Api.csproj|solutionrelative:torrent.chat.api.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 202,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent.Chat.Api\\Torrent.Chat.Api.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Torrent.Chat.Api.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent.Chat.Api\\Torrent.Chat.Api.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Torrent.Chat.Api.Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABMAAAAAAAAAAAAxwDMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T13:47:22.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Torrent.Chat.Api.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent.Chat.Api\\Torrent.Chat.Api.Api\\Torrent.Chat.Api.Api.csproj",
+              "RelativeDocumentMoniker": "Torrent.Chat.Api.Api\\Torrent.Chat.Api.Api.csproj",
+              "ToolTip": "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent.Chat.Api\\Torrent.Chat.Api.Api\\Torrent.Chat.Api.Api.csproj",
+              "RelativeToolTip": "Torrent.Chat.Api.Api\\Torrent.Chat.Api.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-08T13:36:54.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EntityChat.cs",
+              "DocumentMoniker": "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent.Chat.Api\\Torrent.Chat.Api.Storage\\EntityModels\\EntityChat.cs",
+              "RelativeDocumentMoniker": "Torrent.Chat.Api.Storage\\EntityModels\\EntityChat.cs",
+              "ToolTip": "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent.Chat.Api\\Torrent.Chat.Api.Storage\\EntityModels\\EntityChat.cs",
+              "RelativeToolTip": "Torrent.Chat.Api.Storage\\EntityModels\\EntityChat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T13:37:25.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent.Chat.Api\\Torrent.Chat.Api.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Torrent.Chat.Api.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent.Chat.Api\\Torrent.Chat.Api.Api\\appsettings.json",
+              "RelativeToolTip": "Torrent.Chat.Api.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-04T13:14:29.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent.Chat.Api\\Torrent.Chat.Api.Storage\\DBAccess\\DbContext.cs",
+              "RelativeDocumentMoniker": "Torrent.Chat.Api.Storage\\DBAccess\\DbContext.cs",
+              "ToolTip": "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent.Chat.Api\\Torrent.Chat.Api.Storage\\DBAccess\\DbContext.cs",
+              "RelativeToolTip": "Torrent.Chat.Api.Storage\\DBAccess\\DbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T13:07:54.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent.Chat.Api\\Torrent.Chat.Api.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Torrent.Chat.Api.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent.Chat.Api\\Torrent.Chat.Api.Api\\Program.cs",
+              "RelativeToolTip": "Torrent.Chat.Api.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T12:55:17.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Torrent.Chat.Api.Storage.csproj",
+              "DocumentMoniker": "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent.Chat.Api\\Torrent.Chat.Api.Storage\\Torrent.Chat.Api.Storage.csproj",
+              "RelativeDocumentMoniker": "Torrent.Chat.Api.Storage\\Torrent.Chat.Api.Storage.csproj",
+              "ToolTip": "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent.Chat.Api\\Torrent.Chat.Api.Storage\\Torrent.Chat.Api.Storage.csproj",
+              "RelativeToolTip": "Torrent.Chat.Api.Storage\\Torrent.Chat.Api.Storage.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-04T13:01:18.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MsgRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent.Chat.Api\\Torrent.Chat.Api.Storage\\DbRepository\\MsgRepository.cs",
+              "RelativeDocumentMoniker": "Torrent.Chat.Api.Storage\\DbRepository\\MsgRepository.cs",
+              "ToolTip": "C:\\Users\\Handy Bandy\\Desktop\\torrent services\\Torrent.Chat.Api\\Torrent.Chat.Api.Storage\\DbRepository\\MsgRepository.cs",
+              "RelativeToolTip": "Torrent.Chat.Api.Storage\\DbRepository\\MsgRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T13:01:57.65Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

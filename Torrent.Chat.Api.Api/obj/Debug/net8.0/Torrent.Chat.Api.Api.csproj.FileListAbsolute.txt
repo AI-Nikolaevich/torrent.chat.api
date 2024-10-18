@@ -1,0 +1,74 @@
+C:\Users\Handy Bandy\Desktop\Torrent.Chat.Api\Torrent.Chat.Api.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Handy Bandy\Desktop\Torrent.Chat.Api\Torrent.Chat.Api.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Handy Bandy\Desktop\Torrent.Chat.Api\Torrent.Chat.Api.Api\bin\Debug\net8.0\Torrent.Chat.Api.Api.exe
+C:\Users\Handy Bandy\Desktop\Torrent.Chat.Api\Torrent.Chat.Api.Api\bin\Debug\net8.0\Torrent.Chat.Api.Api.deps.json
+C:\Users\Handy Bandy\Desktop\Torrent.Chat.Api\Torrent.Chat.Api.Api\bin\Debug\net8.0\Torrent.Chat.Api.Api.runtimeconfig.json
+C:\Users\Handy Bandy\Desktop\Torrent.Chat.Api\Torrent.Chat.Api.Api\bin\Debug\net8.0\Torrent.Chat.Api.Api.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat.Api\Torrent.Chat.Api.Api\bin\Debug\net8.0\Torrent.Chat.Api.Api.pdb
+C:\Users\Handy Bandy\Desktop\Torrent.Chat.Api\Torrent.Chat.Api.Api\bin\Debug\net8.0\Dapper.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat.Api\Torrent.Chat.Api.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat.Api\Torrent.Chat.Api.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat.Api\Torrent.Chat.Api.Api\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat.Api\Torrent.Chat.Api.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat.Api\Torrent.Chat.Api.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat.Api\Torrent.Chat.Api.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat.Api\Torrent.Chat.Api.Api\bin\Debug\net8.0\Torrent.Chat.Api.Storage.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat.Api\Torrent.Chat.Api.Api\bin\Debug\net8.0\Torrent.Chat.Api.Storage.pdb
+C:\Users\Handy Bandy\Desktop\Torrent.Chat.Api\Torrent.Chat.Api.Api\obj\Debug\net8.0\Torrent.Chat.Api.Api.csproj.AssemblyReference.cache
+C:\Users\Handy Bandy\Desktop\Torrent.Chat.Api\Torrent.Chat.Api.Api\obj\Debug\net8.0\Torrent.Chat.Api.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Handy Bandy\Desktop\Torrent.Chat.Api\Torrent.Chat.Api.Api\obj\Debug\net8.0\Torrent.Chat.Api.Api.AssemblyInfoInputs.cache
+C:\Users\Handy Bandy\Desktop\Torrent.Chat.Api\Torrent.Chat.Api.Api\obj\Debug\net8.0\Torrent.Chat.Api.Api.AssemblyInfo.cs
+C:\Users\Handy Bandy\Desktop\Torrent.Chat.Api\Torrent.Chat.Api.Api\obj\Debug\net8.0\Torrent.Chat.Api.Api.csproj.CoreCompileInputs.cache
+C:\Users\Handy Bandy\Desktop\Torrent.Chat.Api\Torrent.Chat.Api.Api\obj\Debug\net8.0\Torrent.Chat.Api.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Handy Bandy\Desktop\Torrent.Chat.Api\Torrent.Chat.Api.Api\obj\Debug\net8.0\Torrent.Chat.Api.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Handy Bandy\Desktop\Torrent.Chat.Api\Torrent.Chat.Api.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Handy Bandy\Desktop\Torrent.Chat.Api\Torrent.Chat.Api.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Handy Bandy\Desktop\Torrent.Chat.Api\Torrent.Chat.Api.Api\obj\Debug\net8.0\staticwebassets\msbuild.Torrent.Chat.Api.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Handy Bandy\Desktop\Torrent.Chat.Api\Torrent.Chat.Api.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Torrent.Chat.Api.Api.props
+C:\Users\Handy Bandy\Desktop\Torrent.Chat.Api\Torrent.Chat.Api.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Torrent.Chat.Api.Api.props
+C:\Users\Handy Bandy\Desktop\Torrent.Chat.Api\Torrent.Chat.Api.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Torrent.Chat.Api.Api.props
+C:\Users\Handy Bandy\Desktop\Torrent.Chat.Api\Torrent.Chat.Api.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Handy Bandy\Desktop\Torrent.Chat.Api\Torrent.Chat.Api.Api\obj\Debug\net8.0\scopedcss\bundle\Torrent.Chat.Api.Api.styles.css
+C:\Users\Handy Bandy\Desktop\Torrent.Chat.Api\Torrent.Chat.Api.Api\obj\Debug\net8.0\Torrent..1CFE7985.Up2Date
+C:\Users\Handy Bandy\Desktop\Torrent.Chat.Api\Torrent.Chat.Api.Api\obj\Debug\net8.0\Torrent.Chat.Api.Api.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat.Api\Torrent.Chat.Api.Api\obj\Debug\net8.0\refint\Torrent.Chat.Api.Api.dll
+C:\Users\Handy Bandy\Desktop\Torrent.Chat.Api\Torrent.Chat.Api.Api\obj\Debug\net8.0\Torrent.Chat.Api.Api.pdb
+C:\Users\Handy Bandy\Desktop\Torrent.Chat.Api\Torrent.Chat.Api.Api\obj\Debug\net8.0\Torrent.Chat.Api.Api.genruntimeconfig.cache
+C:\Users\Handy Bandy\Desktop\Torrent.Chat.Api\Torrent.Chat.Api.Api\obj\Debug\net8.0\ref\Torrent.Chat.Api.Api.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat.Api\Torrent.Chat.Api.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat.Api\Torrent.Chat.Api.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat.Api\Torrent.Chat.Api.Api\bin\Debug\net8.0\Torrent.Chat.Api.Api.exe
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat.Api\Torrent.Chat.Api.Api\bin\Debug\net8.0\Torrent.Chat.Api.Api.deps.json
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat.Api\Torrent.Chat.Api.Api\bin\Debug\net8.0\Torrent.Chat.Api.Api.runtimeconfig.json
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat.Api\Torrent.Chat.Api.Api\bin\Debug\net8.0\Torrent.Chat.Api.Api.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat.Api\Torrent.Chat.Api.Api\bin\Debug\net8.0\Torrent.Chat.Api.Api.pdb
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat.Api\Torrent.Chat.Api.Api\bin\Debug\net8.0\Dapper.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat.Api\Torrent.Chat.Api.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat.Api\Torrent.Chat.Api.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat.Api\Torrent.Chat.Api.Api\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat.Api\Torrent.Chat.Api.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat.Api\Torrent.Chat.Api.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat.Api\Torrent.Chat.Api.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat.Api\Torrent.Chat.Api.Api\bin\Debug\net8.0\Torrent.Chat.Api.Storage.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat.Api\Torrent.Chat.Api.Api\bin\Debug\net8.0\Torrent.Chat.Api.Storage.pdb
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat.Api\Torrent.Chat.Api.Api\obj\Debug\net8.0\Torrent.Chat.Api.Api.csproj.AssemblyReference.cache
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat.Api\Torrent.Chat.Api.Api\obj\Debug\net8.0\Torrent.Chat.Api.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat.Api\Torrent.Chat.Api.Api\obj\Debug\net8.0\Torrent.Chat.Api.Api.AssemblyInfoInputs.cache
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat.Api\Torrent.Chat.Api.Api\obj\Debug\net8.0\Torrent.Chat.Api.Api.AssemblyInfo.cs
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat.Api\Torrent.Chat.Api.Api\obj\Debug\net8.0\Torrent.Chat.Api.Api.csproj.CoreCompileInputs.cache
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat.Api\Torrent.Chat.Api.Api\obj\Debug\net8.0\Torrent.Chat.Api.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat.Api\Torrent.Chat.Api.Api\obj\Debug\net8.0\Torrent.Chat.Api.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat.Api\Torrent.Chat.Api.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat.Api\Torrent.Chat.Api.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat.Api\Torrent.Chat.Api.Api\obj\Debug\net8.0\staticwebassets\msbuild.Torrent.Chat.Api.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat.Api\Torrent.Chat.Api.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Torrent.Chat.Api.Api.props
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat.Api\Torrent.Chat.Api.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Torrent.Chat.Api.Api.props
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat.Api\Torrent.Chat.Api.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Torrent.Chat.Api.Api.props
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat.Api\Torrent.Chat.Api.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat.Api\Torrent.Chat.Api.Api\obj\Debug\net8.0\scopedcss\bundle\Torrent.Chat.Api.Api.styles.css
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat.Api\Torrent.Chat.Api.Api\obj\Debug\net8.0\Torrent..1CFE7985.Up2Date
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat.Api\Torrent.Chat.Api.Api\obj\Debug\net8.0\Torrent.Chat.Api.Api.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat.Api\Torrent.Chat.Api.Api\obj\Debug\net8.0\refint\Torrent.Chat.Api.Api.dll
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat.Api\Torrent.Chat.Api.Api\obj\Debug\net8.0\Torrent.Chat.Api.Api.pdb
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat.Api\Torrent.Chat.Api.Api\obj\Debug\net8.0\Torrent.Chat.Api.Api.genruntimeconfig.cache
+C:\Users\Handy Bandy\Desktop\torrent services\Torrent.Chat.Api\Torrent.Chat.Api.Api\obj\Debug\net8.0\ref\Torrent.Chat.Api.Api.dll
